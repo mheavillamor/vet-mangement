@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{F97DF678-2FC1-44CF-B1EC-2BA46707E20E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <StartupObject>vet_mangement_system.Frm_vet</StartupObject>
+    <StartupObject>vet_mangement_system.inventory</StartupObject>
     <RootNamespace>vet_mangement_system</RootNamespace>
     <AssemblyName>vet mangement system</AssemblyName>
     <FileAlignment>512</FileAlignment>
