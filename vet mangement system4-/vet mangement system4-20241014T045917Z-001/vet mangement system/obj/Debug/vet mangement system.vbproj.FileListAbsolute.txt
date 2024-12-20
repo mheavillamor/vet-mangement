@@ -17,3 +17,7 @@ C:\Users\Mhea\OneDrive\Documents\Desktop\vet mangement system4-20241014T045917Z-
 C:\Users\Mhea\OneDrive\Documents\Desktop\vet mangement system4-20241014T045917Z-001-20241108T051310Z-001\vet mangement system4-20241014T045917Z-001\vet mangement system\obj\Debug\vet mangement system.pdb
 C:\Users\Mhea\OneDrive\Documents\Desktop\vet mangement system4-20241014T045917Z-001-20241108T051310Z-001\vet mangement system4-20241014T045917Z-001\vet mangement system\obj\Debug\vet_mangement_system.inventory.resources
 C:\Users\Mhea\OneDrive\Documents\Desktop\vet mangement system4-20241014T045917Z-001-20241108T051310Z-001\vet mangement system4-20241014T045917Z-001\vet mangement system\obj\Debug\vet_mangement_system.PetShopForm.resources
+C:\Users\Mhea\OneDrive\Documents\MHEA\vet-mangement\vet mangement system4-\vet mangement system4-20241014T045917Z-001\vet mangement system\obj\Debug\vet mangement system.vbproj.ResolveComReference.cache
+C:\Users\Mhea\OneDrive\Documents\MHEA\vet-mangement\vet mangement system4-\vet mangement system4-20241014T045917Z-001\vet mangement system\obj\Debug\vet mangement system.exe
+C:\Users\Mhea\OneDrive\Documents\MHEA\vet-mangement\vet mangement system4-\vet mangement system4-20241014T045917Z-001\vet mangement system\obj\Debug\vet mangement system.xml
+C:\Users\Mhea\OneDrive\Documents\MHEA\vet-mangement\vet mangement system4-\vet mangement system4-20241014T045917Z-001\vet mangement system\obj\Debug\vet mangement system.pdb
